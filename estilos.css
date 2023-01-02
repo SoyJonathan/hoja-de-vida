@@ -1,0 +1,61 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.contenedor {
+  display: flex;
+}
+
+img {
+  width: 100%;
+}
+
+.izquierdo {
+  background-color: #2d17d3;
+  width: 25%;
+  color: white;
+  padding: 10px;
+}
+.contacto {
+  padding-left: 60px;
+  padding-bottom: 50px;
+}
+.contacto h2 {
+  font-size: 25px;
+  text-decoration: underline white;
+}
+.contacto h3 {
+  padding: 5px;
+}
+
+.informacion {
+  padding: 20px;
+  width: 75%;
+}
+
+.informacion h1 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.informacion h2 {
+  text-align: center;
+  border: 2px solid blue;
+  background-color: #2d17d3;
+  color: white;
+  margin: 30px;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.informacion h3 {
+  text-align: center;
+}
+
+.informacion p {
+  text-align: center;
+}
